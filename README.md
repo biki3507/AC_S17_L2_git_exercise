@@ -21,4 +21,14 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+ToDo ...
+
+* git clone https://github.com/biki3507/AC_S17_L2_git_exercise.git
+
+* cd git-exercise
+
+* bundle install
+
+* rails db:migrate
+
+* rails db:seed
